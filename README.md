@@ -1,5 +1,6 @@
-# gumi02
+안녕하세요 초보입니다.
 
-## 반갑습니다 구미 2반 여러분
+![image](C:\Users\SSAFY\Desktop\gumi02\white.jpg)
+=======
 
-반갑
+## 반갑습니다.
